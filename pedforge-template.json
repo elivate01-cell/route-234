@@ -1,0 +1,23 @@
+{
+  "name": "ROUTE 234",
+  "slug": "route-234",
+  "category": "Business",
+  "subgenres": ["Delivery & Logistics", "Dispatch"],
+  "description": "A compact Nigerian logistics template organized around waybills, corridor ledgers, recurring pickups and a frontend-only tracking demonstration.",
+  "tier": "Free",
+  "framework": "React",
+  "language": "TypeScript",
+  "styling": "Tailwind CSS",
+  "backend": false,
+  "database": false,
+  "pages": ["Home", "Services", "Routes", "Track", "Business", "Contact"],
+  "features": ["Waybill tracking demo", "Corridor schedule ledger", "Business pickup records", "Validated demo enquiry", "Responsive navigation", "Reduced-motion support"],
+  "visualStyle": ["Operational", "Documentary", "Utilitarian", "Photography-led"],
+  "navigationStyle": "Compact operations header with dedicated mobile ledger menu",
+  "heroStyle": "Tracking-first waybill composition",
+  "interactionLevel": "Moderate",
+  "responsive": true,
+  "customizationAvailable": true,
+  "suggestedCardPresentation": "split",
+  "suggestedPreviewComposition": "split-preview"
+}
